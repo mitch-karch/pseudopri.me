@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for proj in site.data.projects%}
+      <li>
+          <img class="proj-preview" src="{{ proj.img }}" href="{{ proj.url | prepend: site.baseurl }"}>  
+          <a class="post-link" href="{{ proj.url | prepend: site.baseurl }}">{{ porj.title }}</a>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
