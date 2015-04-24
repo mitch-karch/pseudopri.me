@@ -8,7 +8,7 @@ style : grid.css
 
   <h1 class="page-heading">Projects</h1>
 
-  <ul class="post-list">
+  <ul class="rig columns-3">
     {% for proj in site.data.projects%}
       <li>
           <a class="post-link" href="{{ proj.url | prepend: site.baseurl }}">
