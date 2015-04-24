@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    {if page.style %}
+    {if page.style != null %}
       <link rel="stylesheet" href="/css/{{ page.style }}">
     {% endif %}
       {% include head.html %}
