@@ -9,7 +9,7 @@ I’d love to get in touch with you. The best way to contact me would be over [e
 
 
 
-[e]: mitchell@pseudopri.me
+[e]: mailto:mitchell@pseudopri.me
 [t]: http://twitter.com/pixlheart
 [g]: https://github.com/mitch-karch
-[t4]: mitchell.karchemsky@team4element.com
+[t4]: mailto:mitchell.karchemsky@team4element.com
