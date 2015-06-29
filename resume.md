@@ -9,8 +9,7 @@ permalink: /resume/
 
 > [pseudopri.me](http://www.pseudopri.me)
 > [mitchell@pseudopri.me](mailto:mitchell@pseudopri.me)
-> (818) 564-7478
-
+> Email me for phone number
 ----
 
 ### Education
