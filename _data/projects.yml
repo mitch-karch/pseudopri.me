@@ -1,15 +1,15 @@
 - name: First Robotics 2014,2015 
-  description: "Mentored FRC Team #4in aspects of programming, electronics, mannufactoring, and design."
+  description: "Mentored FRC Team #4 in aspects of programming, electronics, manufacturing, and design."
   url: http://www.team4element.com
-  img: http://i.imgur.com/PTGzyd4.png
+  img: http://i.imgur.com/1GbOazS.gif
 - name: IRC Bot
-  description: A simple pyhton implementation of an IRC Bot which can be used for the social gaming platform, Twitch.tv
+  description: A simple python implementation of an IRC Bot which can be used for the social gaming platform, Twitch.tv
   url: https://github.com/mitch-karch/ircBot
   img: http://i.imgur.com/Dt195N4.png
 - name: Golden Processing
   description: An attempt to use processing to make pretty animations with processing and ideas from the mathematical golden ratio
   url: https://github.com/mitch-karch/goldenProcessing
-  img: http://i.imgur.com/YX4GaAf.png
+  img: http://i.imgur.com/WKC0NF9.gif
 - name: Pretty Pictures with Processing
   description: A talk I gave to teach beginners how to make recursive art with Processing
   url: http://slides.com/rel/pretty-pictures-with-processing/
