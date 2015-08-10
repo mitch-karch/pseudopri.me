@@ -2,7 +2,6 @@
 layout: post
 title:  "Electronic Walker"
 date:   2015-08-04 00:00:00
-categories: jekyll update
 ---
 
 One of my favorite things to do is to help people explore avenues of creation that they would normally not try out. While working with one of my colleges at a retreat hackathon, we started talking about different technologies besides the standard HTML/CSS/JS Stack. 
